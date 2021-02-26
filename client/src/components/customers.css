@@ -1,0 +1,19 @@
+ul {
+  padding:0;
+  list-style:none;
+  width: 30%;
+  margin:auto;
+}
+
+li{
+  font-size:1.2rem;
+  line-height: 2rem;
+  border-bottom: 1px dotted #777;
+}
+
+.news-heading{
+  color:white;
+  margin-top:2%;  
+border-bottom:2px solid whitesmoke ;
+padding-bottom: 1%;
+}
